@@ -1,4 +1,6 @@
-# daalhof-cultuur
+-------------------
+| daalhof-cultuur |
+-------------------
 
 buurthuis apotheek ontmoetgingsplaats
 
